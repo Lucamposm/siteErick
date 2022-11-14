@@ -136,9 +136,7 @@ body{
     text-align: center;
     
   }
- 
-  
-  
+   
   section.module p{
     margin-bottom: 40px;
   }
@@ -210,8 +208,8 @@ body{
 
   .rodape {
     background-color: black;
-    width: 100%;
-    height: 25%;
+    width: 97%;
+    height: 15%;
     padding: 20px;
     color: white;
     margin: auto;
@@ -238,6 +236,19 @@ body{
     section.module.parallax h1 {
       font-size: 36px;
     }
+    .section.module.parallax{
+        width: 100%;
+    }
+    .rodape{
+        font-size: 9px;
+        display: block;
+        width: 91%;
+
+    }
+    .rodape-texto{
+        padding: 10px;
+    }
+
   }
 
   
